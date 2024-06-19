@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="asg2.css">
+</head>
+<body>
+  <div class="wrapper">
+    <div class="header">Header</div>
+    <div class="left-menu">Left Menu</div>
+    <div class="right-menu">Right Menu</div>
+    <div class="content">Content</div>
+    <div class="footer">Footer</div>
+  </div>
+</body>
+</html>
